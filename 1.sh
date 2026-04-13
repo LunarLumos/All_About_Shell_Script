@@ -1,5 +1,4 @@
 
-#!/usr/bin/env bash
 
 echo "[1] Celcious to Farenheit"
 echo "[2] Farenheit to Celcious"
