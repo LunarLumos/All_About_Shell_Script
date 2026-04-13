@@ -17,5 +17,5 @@ done
 if [ $count -eq 2 ]; then
     echo "The number $num is a Prime Number."
 else
-    echo "The number $num is not a Prime Number."
+    echo "The number $num is not a Prime Number. "
 fi
