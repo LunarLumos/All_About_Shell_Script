@@ -9,4 +9,4 @@ while [ $num2 -ne 0 ]; do
     num2=$((num1 % num2))
     num1=$temp
 done
-echo "GCD of the two numbers is $num1"
+echo "GCD of the two numbers is $num1 "
