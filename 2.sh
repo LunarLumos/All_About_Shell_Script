@@ -12,7 +12,7 @@ fi
 
 while true; do
     if [ $((max % num1)) -eq 0 ] && [ $((max % num2)) -eq 0 ]; then
-        echo "LCM of $num1 and $num2 is $max"
+        echo " LCM of $num1 and $num2 is $max"
         break
     fi
     max=$((max + 1))
