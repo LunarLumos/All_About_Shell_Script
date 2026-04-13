@@ -5,7 +5,7 @@ read start
 echo -n "Enter ending number :"
 read end
 
-echo "prime numbers between $start and $end are :"
+echo "Prime numbers between $start and $end are :"
 
 for ((i=start; i<=end; i++)); do
     if [ "$i" -lt 2 ]; then
