@@ -1,7 +1,7 @@
 
 echo -n "Enter starting number :"
 read start
-
+ 
 echo -n "Enter ending number :"
 read end
 
