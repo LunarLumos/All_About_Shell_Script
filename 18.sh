@@ -16,5 +16,6 @@ for num in "${num_array[@]}"; do
 done
 
 
+
 echo "Maximum number is: $max"
 echo "Minimum number is: $min"
