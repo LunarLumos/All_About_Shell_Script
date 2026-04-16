@@ -1,10 +1,10 @@
 ---
 
-# 🧠 BASH PROBLEM SET (INTERMEDIATE → ADVANCED)
+## 🧠 BASH PROBLEM SET (INTERMEDIATE → ADVANCED)
 
 ---
 
-# 🟡 LEVEL 1 — INTERMEDIATE LOGIC (1–20)
+### 🟡 LEVEL 1 — INTERMEDIATE LOGIC (1–20)
 
 1. [ [1] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/1.sh) Convert Celsius ↔ Fahrenheit with user menu.
 2. [ [2] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/2.sh) Find LCM of two numbers using loop.
@@ -29,7 +29,7 @@
 
 ---
 
-# 🟠 LEVEL 2 — STRINGS + SENTENCE LOGIC (21–45)
+### 🟠 LEVEL 2 — STRINGS + SENTENCE LOGIC (21–45)
 
 21. [ [21] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/21.sh) Count vowels, consonants, digits, spaces in string.
 22. [ [22] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/22.sh) Reverse sentence word by word.
@@ -59,7 +59,7 @@
 
 ---
 
-# 🔵 LEVEL 3 — LOOPS + ALGORITHMIC PROBLEMS (46–65)
+### 🔵 LEVEL 3 — LOOPS + ALGORITHMIC PROBLEMS (46–65)
 
 46. [ [46] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/46.sh) Fibonacci series using loop (no arrays).
 47. [ [47] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/47.sh) Fibonacci using recursion.
@@ -84,7 +84,7 @@
 
 ---
 
-# 🟣 LEVEL 4 — FUNCTIONS + STRUCTURE (66–80)
+### 🟣 LEVEL 4 — FUNCTIONS + STRUCTURE (66–80)
 
 66. [ [66] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/66.sh) Function to check prime.
 67. [ [67] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/67.sh) Function to check palindrome number.
@@ -104,7 +104,7 @@
 
 ---
 
-# 🔴 LEVEL 5 — ARRAYS + LIST ALGORITHMS (81–90)
+### 🔴 LEVEL 5 — ARRAYS + LIST ALGORITHMS (81–90)
 
 81. [ [81] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/81.sh) Read N numbers into array and print.
 82. [ [82] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/82.sh) Find sum of array elements.
@@ -119,7 +119,7 @@
 
 ---
 
-# ⚫ LEVEL 6 — ADVANCED PROBLEM SOLVING (91–100)
+### ⚫ LEVEL 6 — ADVANCED PROBLEM SOLVING (91–100)
 
 91. [ [91] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/91.sh) Build CLI calculator using arguments + validation.
 92. [ [92] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/92.sh) Build menu-driven calculator using case + functions.
@@ -131,3 +131,4 @@
 98. [ [98] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/98.sh) Simulate queue operations using array logic.
 99. [ [99] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/99.sh) Build script that processes batch numbers from file.
 100. [ [100] ](https://github.com/LunarLumos/All_About_Shell_Script/blob/main/100.sh) Build full interactive mathematical engine.
+---
